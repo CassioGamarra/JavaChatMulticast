@@ -3,6 +3,11 @@ import java.rmi.RemoteException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+/**
+ *
+ * @author Cássio e Frederico
+ */
+
 public class Main {
     public static void main(String[] args) {
         //Try catch apenas para definir o look and feel para windows
